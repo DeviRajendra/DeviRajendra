@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DeviRajendra.
-- 👀 I’m interested in Data Science and Machine Learning.
+- 👀 Currently working at Healthpointe Solutions
 - 🌱 I’m currently working on to get more expertise on above mentioned topics.
 - 💞️ I’m looking to collaborate on Data science, Machine Learning, NLP and CV problems.
 - 📫 How to reach me - Contact me on Email - devirajendravarma@gmail.com
